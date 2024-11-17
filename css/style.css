@@ -1,0 +1,89 @@
+/*inicio general*/
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.letraBlanca{
+    color: white;
+}
+.ancho{
+    width: 120px;
+}
+.mouse:hover  {
+    background-color: rgb(102, 101, 101);
+    color: white;
+}
+
+.piedepaginatop{
+    width: 32px;
+	height: 16px;
+    display: block;
+    margin: 0 auto 40px;
+    background-image: url(//imagenes/piedepagina__isotipo.png);
+    
+}
+.pieDePaginaDireccion{
+    color: rgb(102, 101, 101);
+    text-align: center;
+    font-size: 15px;
+}
+.pieDePaginaDerechos{
+    color: rgb(102, 101, 101);
+    text-align: center;
+    font-size: 10px;
+}
+.Volver{
+    height: 50px;
+    width: 50px;
+    display: block;
+    justify-content: center; 
+    align-items: center;
+}
+/*fin del general*/
+/*inicio*/
+.bienvenido{
+    color: rgb(185, 164, 100);
+    text-align: center;
+}
+.inicio{
+    background-color: rgb(255, 255, 255);
+    color: gray;
+    border: solid;
+}
+.video{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+a{
+    color: gray ;
+    text-decoration: none;
+    font-weight: bold;
+}
+/*fin inicio*/
+/*filosofia*/
+.imagen{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.cuerpo{
+    background-color: rgb(255, 255, 255);
+    color: gray;
+    border: solid;
+}
+.Filosofía{
+    color: rgb(185, 164, 100);
+    text-align: center;
+}
+/*fin de filosofia*/
+/*contactanos*/
+/** Contáctenos */
+.contactanos{
+    color: rgb(185, 164, 100);
+}
