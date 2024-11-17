@@ -238,18 +238,6 @@
             line-height: 18px;
         }
 
-        #piedepagina__principal .piedepagina__top {}
-
-            #piedepagina__principal .piedepagina__top a {
-                width: 32px;
-                height: 16px;
-
-                display: block;
-
-                margin: 0 auto 40px;
-
-                background: url('../img/piedepagina__top.png') no-repeat center top;
-            }
 
             #piedepagina__principal .piedepagina__top a:hover {
                 background-position: center bottom;
